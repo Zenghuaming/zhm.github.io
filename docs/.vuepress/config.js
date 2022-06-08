@@ -27,18 +27,6 @@ module.exports = {
       { text: '导航', link: '/guide/guide' },
     ],
     sidebar: {
-      "/blog/fontend/":[
-        ["","111"],
-        {
-          title: "css",
-          name: "css",
-          collabsable: false,
-          children: [
-            ["css/", "目录"],
-            ['css/1', "css常考面试题"]
-          ]
-        }
-    ],
     "/blog/backend/":[
       {
         title: "css1",
