@@ -15,19 +15,11 @@ module.exports = {
       { text: 'Home', link: '/' },
       // 对应blog/fontend/README.md
       { 
-        text: '计算机基础', 
+        text: '八股文', 
         items: [
-          { text: '计算机网络', link: '/language/chinese/' },
-          { text: '操作系统', link: '/language/chinese/' },
-          { text: '计算机组成原理', link: '/language/english/' }
-        ] 
-      },
-      { 
-        text: '面试相关', 
-        items: [
-          { text: '计算机网络', link: '/language/chinese/' },
-          { text: '操作系统', link: '/language/chinese/' },
-          { text: '计算机组成原理', link: '/language/english/' }
+          { text: '计算机网络', link: '/eight_part_essays/01' },
+          { text: '操作系统', link: '/eight_part_essays/02' },
+          { text: '计算机组成原理', link: '/eight_part_essays/03' }
         ] 
       },
       { text: '后端', link: '/blog/backend/' },
